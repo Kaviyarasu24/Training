@@ -53,13 +53,6 @@ The programs in this repository are a result of coursework and training sessions
 - Learned the importance of clean, maintainable code.  
 
 ---
-
-## 📧 Contact  
-Feel free to reach out if you have any questions or feedback!  
-- **Email**: [Your Email Address]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-
----
-
+  
 ## 🌟 Acknowledgments  
 Special thanks to my college instructors and peers for their guidance and support during the training sessions.  
